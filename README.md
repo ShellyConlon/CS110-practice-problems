@@ -3,9 +3,9 @@ These are all the practice problem assignments for CS110 for this WInter quarter
 
 **Hi World**
 
-#Worlds
+# Worlds
 
-##Small World
+## Small World
 
 Think of `Hello World` 
 
